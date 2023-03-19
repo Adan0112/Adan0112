@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adan0112&label=Profile%20views&color=0e75b6&style=flat" alt="adan0112" /> </p>
 
-<p align="left"> <a href=" "><img src="https://github-profile-trophy.vercel.app/?username=adan0112" alt="adan0112" /></a> </p>
+<p align="left"> <a href=" https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=adan0112" alt="adan0112" /></a> </p>
 
 - 📫 Como llegar a mi **adan.tt3@gmail.com**
 
